@@ -1,0 +1,2 @@
+# MFCPicRedFrameButton
+带图片的鼠标指针覆盖显示红框效果的MFC按钮
